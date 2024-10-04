@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+}
+
+.textbox{
+    margin-left: 470px;
+    width: 450px;
+    height: 40px;
+}
+
+.finish{
+    text-decoration: line-through;
+}
+
+.divStyle{
+    margin: 0 auto;
+    text-align: center;
+}
